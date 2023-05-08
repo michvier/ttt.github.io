@@ -18,8 +18,4 @@ list of stories selected for this spring
 
 
 
-<!-- {% video https://github.com/michvier/ttt.github.io/blob/main/sample_video.mp4 %} -->
-
-
-
 Video by Murilo Castro: https://www.pexels.com/
