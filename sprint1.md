@@ -17,5 +17,11 @@ list of stories selected for this spring
 - brief summary of how the sprint went
 
 
+## Deliverables:
+
+- Product Video
+- Architecture Documentation
+
+
 
 Video by Murilo Castro: https://www.pexels.com/
