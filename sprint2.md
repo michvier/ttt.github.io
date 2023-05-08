@@ -4,3 +4,4 @@ layout: home
 nav_order: 3
 ---
 
+![]({./sample_video.mp4})
