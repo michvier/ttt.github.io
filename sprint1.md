@@ -5,7 +5,7 @@ nav_order: 2
 ---
 
 
-[![Watch the video](sample_video.mp4)](sample_video.mp4)
+![Watch the video](./sample_video.mp4)
 
 
 Video by Murilo Castro: https://www.pexels.com/
