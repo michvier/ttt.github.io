@@ -7,8 +7,8 @@ nav_order: 2
 
 
 
-{% video [[http://site.com/video.mp4](https://github.com/michvier/ttt.github.io/blob/main/sample_video.mp4)](https://github.com/michvier/ttt.github.io/blob/main/sample_video.mp4) 720 480 http://site.com/poster-frame.jpg %}
 
+{% video https://github.com/michvier/ttt.github.io/blob/main/sample_video.mp4 720 480 http://site.com/poster-frame.jpg %}
 
 
 
