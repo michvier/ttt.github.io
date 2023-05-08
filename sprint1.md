@@ -5,6 +5,16 @@ nav_order: 2
 ---
 
 
+## Sprint Planning:
+
+list of stories selected for this spring
+
+
+## Sprint Review:
+
+- stories implemented
+- stories postponed
+- brief summary of how the sprint went
 
 
 
