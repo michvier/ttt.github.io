@@ -15,3 +15,10 @@ nav_order: 1
 ### Team Contract
 
 What makes a good team?
+
+
+
+### App Pitch
+
+
+#### Highly Innovative Feature
