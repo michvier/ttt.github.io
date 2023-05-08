@@ -6,12 +6,6 @@ nav_order: 2
 
 
 
-vrView.setContent({
-    //image: 'V0050069.jpg',
-    image: 'https://github.com/michvier/ttt.github.io/blob/main/sample_video.mp4',
-    //preview:'/url/to/amazing-512.jpg',
-    is_stereo: false
-});
 
 
 <!-- {% video https://github.com/michvier/ttt.github.io/blob/main/sample_video.mp4 %} -->
