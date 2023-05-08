@@ -4,4 +4,5 @@ layout: home
 nav_order: 3
 ---
 
-![]({./sample_video.mp4})
+
+{% video http://site.com/video.mp4 720 480 http://site.com/poster-frame.jpg %}
